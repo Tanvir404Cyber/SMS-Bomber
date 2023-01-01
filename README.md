@@ -10,6 +10,6 @@
 - cd SMS-Bomber
 - python T&M_Bomber.py
 # Tool User&Pass
-- MR
-- MIVI
+- USER : MR
+- PASS : MIVI
 # Thanks All
