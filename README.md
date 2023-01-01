@@ -9,4 +9,7 @@
 # Tool Run
 - cd SMS-Bomber
 - python T&M_Bomber.py
+# Tool User&Pass
+- MR
+- MIVI
 # Thanks All
